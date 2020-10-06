@@ -17,3 +17,9 @@ The player is in an home and must catch the mouse. The game restarts everytime t
 Use arrows to move / Press 'R' button to reset the game / Press spacebar to navigate between cutescenes
 
 A link to play to the game: https://simmer.io/@Neward/tum-tum-an-unexpected-diet
+
+### Credits
+Music used: https://www.youtube.com/watch?v=HRhfZiVC5M4
+Cat sound used: https://freesound.org/people/ipaghost/sounds/336053/
+Game Over sound used: https://freesound.org/people/myfox14/sounds/382310/
+Success sound used: https://freesound.org/people/myfox14/sounds/382310/
