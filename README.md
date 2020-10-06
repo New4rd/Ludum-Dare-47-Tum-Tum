@@ -14,8 +14,6 @@ Tum-Tum: An Unexpected Diet is a game where you control Tum-Tum, a fat cat who c
 
 The player is in an home and must catch the mouse. The game restarts everytime the player catches the target, and a ghost of his previous path appears on the screen to disturb him. If the player touches a ghost, he loses. If he manages to catch all of the mice, he wins.
 
-• Use arrows to move
-• Press 'R' button to reset the game
-• Press spacebar to navigate between cutescenes
+Use arrows to move / Press 'R' button to reset the game / Press spacebar to navigate between cutescenes
 
 A link to play to the game: https://simmer.io/@Neward/tum-tum-an-unexpected-diet
