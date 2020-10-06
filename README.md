@@ -8,7 +8,7 @@ Game Design / Level Design / Visual Artist / Story
 #### Maxime Barre:
 Programming / Integration / Level Design / Back-end Tests 
 
-Tum-Tum: An Unexpected Diet is a game where you control Tum-Tum, a fat cat who can't even clean himself. To solve his problems, he will call a shaman, and will go back to the past to fight the origin of his anxiety.
+Built around the theme "Stuck in the loop", Tum-Tum: An Unexpected Diet is a game where you control Tum-Tum, a fat cat who can't even clean himself. To solve his problems, he will call a shaman, and will go back to the past to fight the origin of his anxiety.
 
 ### How to play:
 
