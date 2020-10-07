@@ -1,6 +1,6 @@
 ## Depository for my participation to the Ludum Dare 47
 
-That depository is the source code for our participation to the Ludum Dare 47. The programming was made using Unity3D, and the visual aspect was made using Photoshop. All of the visuals and the code are open to external use and/or modification.
+That depository is the source code for our participation to the Ludum Dare 47. The programming was made using Unity3D, and the visual aspect was made using Photoshop. In accordance with the conditions of participation in the Ludum Dare, all the assets were made in 72 hours, from October 3 to 6. All of the visuals and the code are open to external use and/or modification.
 
 #### Alice Guiet:
 Game Design / Level Design / Visual Artist / Story
